@@ -1,7 +1,6 @@
 Official PyTorch implementation for "Logit Perturbation".
 
-
-![](img\framework.jpg)
+<img src="img\framework.jpg" alt="Alt text" height="200">
 
 
 ## 1. Requirements
